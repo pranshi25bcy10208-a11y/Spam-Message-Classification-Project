@@ -10,14 +10,14 @@ The classifier checks for the presence of spam-related keywords in the messages 
 - User input classification
 - Modular code design
 
-# Technologies Used
+# Technologies/ Tools Used
 - Python 3
 - VS Code
 
-# How to Run
+# Steps to install and run the project
 1. Install Python 3
 2. Save the Python script as `spam_classifier.py`
 3. Run using: `python spam_classifier.py`
 
-# Testing
+# Instructions for Testing
 Try entering different messages to see if they are marked as SPAM or NOT SPAM. Take note of the keywords that might alter the classification.
